@@ -1,0 +1,58 @@
+.gradient{
+    width:  auto;
+    height: 200px;
+    background: linear-gradient(147.17deg, #D251FF 0%, #FF7A00 100%);
+}
+
+.pp{
+    color: #000000;
+    text-align: center; 
+}
+
+.zagolovok{
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center; 
+
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+}
+
+.color-gradient{
+    text-align: center;
+    background-image: linear-gradient(147.17deg, #D251FF 0%, #FF7A00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.gradient-h1{
+    place-items: center;
+}
+
+.phone{
+    position: absolute;
+    height: 400px;
+    margin-left: 10px;
+}
+.borders{
+    border: 1px solid #000000;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.money{
+    font-size: 60px;
+    background-image: linear-gradient(147.17deg, #D251FF 0%, #FF7A00 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+.functions{
+    font-weight: bold;
+}
+.center{
+    text-align: center;
+}
